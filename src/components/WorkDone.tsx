@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 const WorkDone = () => {
   return (
     <div className="flex items-center justify-start">
